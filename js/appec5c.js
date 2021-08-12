@@ -39,7 +39,7 @@ class App {
         $b.on('click', '.js-hamburger', function () {
             this.classList.toggle('is-active');
             document.body.classList.toggle('active-sidebar');
-            localStorage.sidebar_state = localStorage.sidebar_state === 'show' ? 'hide' : 'show';
+            localStorage.sidebar_state = localStorage.sidebar_state === 'hide' ? 'show' : 'hide';
         });
     }
 
@@ -53,9 +53,9 @@ class App {
     }
 
     setSidebarState() {
-        if(!localStorage.sidebar_state) localStorage.sidebar_state = 'show';
+        if(!localStorage.sidebar_state) localStorage.sidebar_state = 'hide';
 
-        if(localStorage.sidebar_state === 'show') {
+        if(localStorage.sidebar_state === 'hide') {
             $('.js-hamburger').addClass('is-active');
             document.body.classList.add('active-sidebar');
         }
@@ -130,7 +130,7 @@ class App {
         const url = localStorage.active_iframe;
         if(!url) return;
         const activeIframe = document.querySelector(`#sidebar [data-app-url="${url}"]`);
-        activeIframe.classList.add('active');
+        activeIframe.classList.add('deactive');
         const iframeSrc = this.getIframeSrc(url);
 
         this.setActiveIframe(iframeSrc);
