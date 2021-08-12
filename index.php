@@ -1,8 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Mirrored from multi-chat.net/new_launcher/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Aug 2021 03:37:08 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -232,5 +231,4 @@
 <script src="js/appec5c.js?v=1616148418"></script>
 </body>
 
-<!-- Mirrored from multi-chat.net/new_launcher/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Aug 2021 03:37:15 GMT -->
 </html>
