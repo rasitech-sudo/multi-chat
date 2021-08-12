@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="261px" height="310px" viewBox="0 0 261 310" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.21032359,0 C3.2705653,0 0.887220273,2.38334503 0.887220273,5.32310331 L0.887220273,122.427883 C0.887220273,125.367641 3.2705653,127.750986 6.21032359,127.750986 L123.315103,127.750986 C126.254862,127.750986 128.638207,125.367641 128.638207,122.427883 C128.561357,54.8443821 73.7933255,0.0763508772 6.21032359,0 Z" id="path-1"></path>
+        <radialGradient cx="0%" cy="100%" fx="0%" fy="100%" r="101.611177%" id="radialGradient-3">
+            <stop stop-color="#FF666D" offset="0%"></stop>
+            <stop stop-color="#FF0082" offset="43.993671%"></stop>
+            <stop stop-color="#E30098" offset="72.2870639%"></stop>
+            <stop stop-color="#AF00AB" offset="100%"></stop>
+        </radialGradient>
+        <path d="M6.21032359,0 C3.2705653,0 0.887220273,2.38334503 0.887220273,5.32310331 L0.887220273,122.427883 C0.887220273,125.367641 3.2705653,127.750986 6.21032359,127.750986 L123.315103,127.750986 C126.254862,127.750986 128.638207,125.367641 128.638207,122.427883 C128.561357,54.8443821 73.7933255,0.0763508772 6.21032359,0 Z" id="path-4"></path>
+        <radialGradient cx="-10.9723724%" cy="0%" fx="-10.9723724%" fy="0%" r="119.405918%" gradientTransform="translate(-0.109724,0.000000),scale(0.819267,1.000000),rotate(27.363215),scale(1.000000,1.114752),translate(0.109724,-0.000000)" id="radialGradient-6">
+            <stop stop-color="#00CBFF" offset="0%"></stop>
+            <stop stop-color="#0096FF" offset="54.2090948%"></stop>
+            <stop stop-color="#0049FF" offset="100%"></stop>
+        </radialGradient>
+        <path d="M129.314604,140.396195 L18.8560312,140.396195 C15.9162729,140.396694 13.5334269,142.780538 13.534425,145.720296 C13.534425,146.936421 13.9511111,148.115618 14.7151189,149.06177 L83.9134659,234.728951 C84.841653,235.880702 86.2069864,236.593809 87.6821053,236.698604 L88.0548772,236.698604 C89.4017466,236.699602 90.6992125,236.189598 91.6852865,235.271891 C116.481856,212.082682 130.580819,179.66899 130.638706,145.718799 C130.637708,142.77954 132.254862,140.396195 129.314604,140.396195 Z" id="path-7"></path>
+        <radialGradient cx="63.7169483%" cy="42.6867672%" fx="63.7169483%" fy="42.6867672%" r="70.6711127%" gradientTransform="translate(0.637169,0.426868),scale(1.000000,0.661724),rotate(-178.816064),translate(-0.637169,-0.426868)" id="radialGradient-9">
+            <stop stop-color="#7DCF24" offset="0%"></stop>
+            <stop stop-color="#00E005" offset="66.4875361%"></stop>
+            <stop stop-color="#08B306" offset="100%"></stop>
+        </radialGradient>
+        <path d="M211.146456,259.931317 L211.146456,315.798525 L109.146456,227.081136 L109.26164,226.933217 C85.5939519,204.613909 70.8091611,172.977307 70.7695171,137.885592 C70.7695171,70.3804376 120.911583,15.4582076 182.551193,15.4582076 C185.490952,15.4582076 187.874297,17.8415526 187.874297,20.7813109 L187.874297,136.065646 L261.277431,230.43034 C263.04448,232.70889 262.676199,235.979502 260.447053,237.807931 C246.530256,250.098818 229.303832,257.738505 211.146456,259.931317 Z" id="path-10"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-17" transform="translate(-1.843750, -0.062500)">
+            <g id="pie-chart-(1)-copy" transform="translate(66.906250, 119.312500) scale(-1, 1) translate(-66.906250, -119.312500) translate(0.906250, 0.812500)">
+                <g id="Shape-Copy">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FF0083" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#radialGradient-3)" fill-rule="nonzero" xlink:href="#path-4"></use>
+                </g>
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Mask" fill="url(#radialGradient-6)" fill-rule="nonzero" xlink:href="#path-7"></use>
+            </g>
+            <mask id="mask-11" fill="white">
+                <use xlink:href="#path-10"></use>
+            </mask>
+            <use id="Mask" fill="url(#radialGradient-9)" fill-rule="nonzero" transform="translate(166.581962, 160.250354) scale(-1, 1) translate(-166.581962, -160.250354) " xlink:href="#path-10"></use>
+        </g>
+    </g>
+</svg>
