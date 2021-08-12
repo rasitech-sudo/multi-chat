@@ -6,7 +6,6 @@ class App {
 
         this.initHandlers();
         this.setEnabledClass();
-        this.setSidebarState();
         this.initSavedIframeView();
 
     }
@@ -52,15 +51,7 @@ class App {
         });
     }
 
-    setSidebarState() {
-        if(!localStorage.sidebar_state) localStorage.sidebar_state = 'show';
-
-        if(localStorage.sidebar_state === 'show') {
-            $('.js-hamburger').addClass('is-active');
-            document.body.classList.add('active-sidebar');
-        }
-    }
-
+   
     setActiveView(v) {
         document.getElementById('view-box').setAttribute('data-a-view', v);
     }
